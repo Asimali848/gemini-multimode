@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Multimodal Studio",
+  "description": "A high-end creative workspace leveraging Gemini's latest models for real-time voice, image generation, and intelligent search-grounded chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
